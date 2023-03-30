@@ -33,3 +33,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Maggiebat/WeatherApp.git
 git push -u origin main
+
+# WANT TO ADDS:
+- Colored backgrounds based on hot/cold
+- 

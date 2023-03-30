@@ -1,6 +1,6 @@
 :root {
   --blue-1: rgb(24, 2, 83);
-  --blue-2: rgb(83, 54, 110);
+  --blue-2: rgb(121, 62, 176);
   --orange-1: rgb(255, 170, 0);
   --white: rgb(255, 255, 255);
   --grey-1: rgb(161, 161, 161);
@@ -31,6 +31,10 @@ body {
   background-color: var(--blue-2);
   border-radius: 20px;
   box-shadow: 10px 10px 10px var(--shadow-dark);
+}
+
+.container .hot {
+  background-color: var(--orange-1);
 }
 
 .upper-data {
